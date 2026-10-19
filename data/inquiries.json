@@ -1,0 +1,28 @@
+[
+  {
+    "id": "inq-1791390103488",
+    "name": "Technical Recruiter",
+    "email": "recruiting@techcollaborative.io",
+    "phone": "+91 98200 11223",
+    "company": "NextGen Systems",
+    "type": "Say Hello",
+    "projectType": "Not specified",
+    "budget": "Not specified",
+    "message": "Impressed with your F1 telemetry platform and autonomous AI agent work. Would love to discuss full-stack opportunities.",
+    "createdAt": "2026-03-10T16:21:43.488Z",
+    "status": "new"
+  },
+  {
+    "id": "inq-1791389898079",
+    "name": "Enterprise Client",
+    "email": "ops@retailscale.in",
+    "phone": "+91 84400 99887",
+    "company": "RetailScale Solutions",
+    "type": "Get A Quote",
+    "projectType": "Full-Stack Development",
+    "budget": "Project Milestone Delivery",
+    "message": "We are seeking tailored business billing software similar to your contributions at FlyFour Infotech.",
+    "createdAt": "2026-03-05T16:18:18.079Z",
+    "status": "new"
+  }
+]
